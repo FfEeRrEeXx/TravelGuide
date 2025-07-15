@@ -1,0 +1,924 @@
+{
+  "Wien_2025-07-25_2025-08-01_1": [
+    {
+      "name": "mk | hotel berlin",
+      "price": 74.0
+    },
+    {
+      "name": "Capri By Fraser Berlin",
+      "price": 93.0
+    },
+    {
+      "name": "Ocak Aparthotel",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel Les Nations",
+      "price": 127.0
+    },
+    {
+      "name": "Hotel Sedes",
+      "price": 148.0
+    }
+  ],
+  "Stuttgart_2025-08-01_2025-08-08_1": [
+    {
+      "name": "mk | hotel berlin",
+      "price": 74.0
+    },
+    {
+      "name": "Capri By Fraser Berlin",
+      "price": 93.0
+    },
+    {
+      "name": "Ocak Aparthotel",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel Les Nations",
+      "price": 127.0
+    },
+    {
+      "name": "Hotel Sedes",
+      "price": 148.0
+    }
+  ],
+  "Berlin_2025-08-01_2025-08-08_1": [
+    {
+      "name": "mk | hotel berlin",
+      "price": 74.0
+    },
+    {
+      "name": "Capri By Fraser Berlin",
+      "price": 93.0
+    },
+    {
+      "name": "Ocak Aparthotel",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel Les Nations",
+      "price": 127.0
+    },
+    {
+      "name": "Hotel Sedes",
+      "price": 148.0
+    }
+  ],
+  "Duisburg_2025-07-25_2025-08-01_1": [
+    {
+      "name": "mk | hotel berlin",
+      "price": 74.0
+    },
+    {
+      "name": "Capri By Fraser Berlin",
+      "price": 93.0
+    },
+    {
+      "name": "Ocak Aparthotel",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel Les Nations",
+      "price": 127.0
+    },
+    {
+      "name": "Hotel Sedes",
+      "price": 148.0
+    }
+  ],
+  "Tokio_2025-07-25_2025-08-01_1": [
+    {
+      "name": "mk | hotel berlin",
+      "price": 74.0
+    },
+    {
+      "name": "Capri By Fraser Berlin",
+      "price": 93.0
+    },
+    {
+      "name": "Ocak Aparthotel",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel Les Nations",
+      "price": 127.0
+    },
+    {
+      "name": "Hotel Sedes",
+      "price": 148.0
+    }
+  ],
+  "Athen_2025-07-25_2025-08-01_1": [
+    {
+      "name": "mk | hotel berlin",
+      "price": 74.0
+    },
+    {
+      "name": "Capri By Fraser Berlin",
+      "price": 93.0
+    },
+    {
+      "name": "Ocak Aparthotel",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel Les Nations",
+      "price": 127.0
+    },
+    {
+      "name": "Hotel Sedes",
+      "price": 148.0
+    }
+  ],
+  "Kamerun_2025-07-25_2025-08-01_1": [
+    {
+      "name": "HOTEL FAMIGNI",
+      "price": 18.0
+    },
+    {
+      "name": "Hotel Lobe",
+      "price": 28.0
+    },
+    {
+      "name": "Cameroon International Hotel",
+      "price": 30.0
+    },
+    {
+      "name": "Adamaoua Hôtel",
+      "price": 31.0
+    },
+    {
+      "name": "Peninsula Plaza Hotel",
+      "price": 31.0
+    },
+    {
+      "name": "Haustierfreundliche Ferienwohnung",
+      "price": 35.0
+    },
+    {
+      "name": "Maroua Palace",
+      "price": 40.0
+    },
+    {
+      "name": "Haustierfreundliche Wohnung",
+      "price": 43.0
+    },
+    {
+      "name": "Villa für 2 Personen mit einem Schlafzimmer",
+      "price": 45.0
+    },
+    {
+      "name": "PRESTIGE BEACH RESIDENCE",
+      "price": 48.0
+    },
+    {
+      "name": "UNITED HOTEL BALESSING",
+      "price": 63.0
+    },
+    {
+      "name": "Afriland First Bank POS - Hôtel Jouvence 2000",
+      "price": 65.0
+    },
+    {
+      "name": "BENGO HÔTEL",
+      "price": 83.0
+    },
+    {
+      "name": "Wohnung für 6 Personen mit 3 Schlafzimmern",
+      "price": 92.0
+    },
+    {
+      "name": "United Hotel International",
+      "price": 165.0
+    },
+    {
+      "name": "Hilton Yaounde",
+      "price": 228.0
+    },
+    {
+      "name": "STAR LAND HOTEL BASTOS",
+      "price": 278.0
+    }
+  ],
+  "Dubai_2025-07-25_2025-08-01_1": [
+    {
+      "name": "Rove La Mer Beach, Jumeirah",
+      "price": 61.0
+    },
+    {
+      "name": "voco Monaco Dubai by IHG",
+      "price": 67.0
+    },
+    {
+      "name": "Dubai Marine Beach Resort & Spa",
+      "price": 70.0
+    },
+    {
+      "name": "NH Collection Dubai The Palm",
+      "price": 77.0
+    },
+    {
+      "name": "Aloft Palm Jumeirah",
+      "price": 77.0
+    },
+    {
+      "name": "Adagio Premium The Palm",
+      "price": 80.0
+    },
+    {
+      "name": "Radisson Beach Resort Palm Jumeirah",
+      "price": 82.0
+    },
+    {
+      "name": "Th8 Palm Dubai Beach Resort, Vignette Collection, an IHG Hotel",
+      "price": 88.0
+    },
+    {
+      "name": "C Central Hotel & Resort The Palm Dubai",
+      "price": 88.0
+    },
+    {
+      "name": "The Retreat Palm Dubai MGallery by Sofitel",
+      "price": 91.0
+    },
+    {
+      "name": "voco Dubai The Palm",
+      "price": 91.0
+    },
+    {
+      "name": "Dukes The Palm, a Royal Hideaway Hotel",
+      "price": 97.0
+    },
+    {
+      "name": "Sheraton Sharjah Beach Resort & Spa",
+      "price": 101.0
+    },
+    {
+      "name": "Sofitel Dubai Jumeirah Beach",
+      "price": 105.0
+    },
+    {
+      "name": "FIVE Palm Jumeirah Hotel",
+      "price": 120.0
+    },
+    {
+      "name": "Anantara The Palm Dubai Resort",
+      "price": 136.0
+    },
+    {
+      "name": "W Dubai - The Palm",
+      "price": 151.0
+    },
+    {
+      "name": "Address Beach Resort",
+      "price": 183.0
+    }
+  ],
+  "London_2025-07-25_2025-08-01_1": [
+    {
+      "name": "Safestay London Kensington Holland Park",
+      "price": 27.0
+    },
+    {
+      "name": "St Christopher's Inn London Bridge - The Village",
+      "price": 31.0
+    },
+    {
+      "name": "Palmers Lodge Swiss Cottage",
+      "price": 35.0
+    },
+    {
+      "name": "St Christopher's Inn London Bridge - The Inn",
+      "price": 41.0
+    },
+    {
+      "name": "Travelodge London Wembley",
+      "price": 41.0
+    },
+    {
+      "name": "Smart Hyde Park View",
+      "price": 45.0
+    },
+    {
+      "name": "The Rose & Crown, London Bridge (PUBLOVE)",
+      "price": 47.0
+    },
+    {
+      "name": "St George's Hotel",
+      "price": 58.0
+    },
+    {
+      "name": "Four Points Flex by Sheraton London Shoreditch East",
+      "price": 59.0
+    },
+    {
+      "name": "Travelodge London Central City Road",
+      "price": 61.0
+    },
+    {
+      "name": "Argyle Square Hotel",
+      "price": 61.0
+    },
+    {
+      "name": "Premier Inn London Tolworth hotel",
+      "price": 64.0
+    },
+    {
+      "name": "The W14 Kensington Hotel",
+      "price": 67.0
+    },
+    {
+      "name": "Travelodge London Central Elephant and Castle",
+      "price": 69.0
+    },
+    {
+      "name": "ibis London Stratford",
+      "price": 73.0
+    },
+    {
+      "name": "Travelodge London City",
+      "price": 76.0
+    },
+    {
+      "name": "The Z Hotel Strand",
+      "price": 85.0
+    },
+    {
+      "name": "The Langham",
+      "price": 786.0
+    }
+  ],
+  "Köln_2025-07-25_2025-08-01_2": [
+    {
+      "name": "Hotel Alt Deutz City-Messe-Arena",
+      "price": 41.0
+    },
+    {
+      "name": "MEININGER Hotel Köln West",
+      "price": 43.0
+    },
+    {
+      "name": "a&o Hostel Köln Neumarkt",
+      "price": 47.0
+    },
+    {
+      "name": "SMARTY Cologne Dom Hotel | Boardinghouse",
+      "price": 50.0
+    },
+    {
+      "name": "Geräumiges Haus mit 17 Schlafzimmern",
+      "price": 53.0
+    },
+    {
+      "name": "Hotel Garni Emir",
+      "price": 55.0
+    },
+    {
+      "name": "B&B HOTEL Köln-City",
+      "price": 64.0
+    },
+    {
+      "name": "B&B HOTEL Köln-West",
+      "price": 68.0
+    },
+    {
+      "name": "Hotel Sion",
+      "price": 71.0
+    },
+    {
+      "name": "Art Rock Downtown Hotel",
+      "price": 71.0
+    },
+    {
+      "name": "Hotel NH Köln Altstadt",
+      "price": 72.0
+    },
+    {
+      "name": "B&B HOTEL Köln-Messe",
+      "price": 73.0
+    },
+    {
+      "name": "Kölner Golfclub",
+      "price": 73.0
+    },
+    {
+      "name": "Mercure Hotel Severinshof Köln-City",
+      "price": 75.0
+    },
+    {
+      "name": "Steigenberger Hotel Köln",
+      "price": 75.0
+    },
+    {
+      "name": "Mercure Hotel Köln West",
+      "price": 75.0
+    },
+    {
+      "name": "Palast Hotel",
+      "price": 82.0
+    },
+    {
+      "name": "CityClass Hotel am Dom",
+      "price": 87.0
+    },
+    {
+      "name": "Maritim Hotel Köln",
+      "price": 102.0
+    },
+    {
+      "name": "Apartments am Rheingarten",
+      "price": 104.0
+    }
+  ],
+  "Barcelona_2025-08-01_2025-08-08_": [
+    {
+      "name": "St Christopher's Inn Barcelona",
+      "price": 51.0
+    },
+    {
+      "name": "Leevin Barcelona",
+      "price": 51.0
+    },
+    {
+      "name": "Urbany Hostel BCN GO!",
+      "price": 56.0
+    },
+    {
+      "name": "Sercotel Porta Barcelona",
+      "price": 60.0
+    },
+    {
+      "name": "Travelodge Barcelona Poblenou",
+      "price": 71.0
+    },
+    {
+      "name": "Travelodge Barcelona Fira",
+      "price": 73.0
+    },
+    {
+      "name": "ibis Barcelona Santa Coloma",
+      "price": 76.0
+    },
+    {
+      "name": "Generator Barcelona",
+      "price": 77.0
+    },
+    {
+      "name": "Pol & Grace Hotel",
+      "price": 81.0
+    },
+    {
+      "name": "Hotel Sagrada Família",
+      "price": 83.0
+    },
+    {
+      "name": "Hotel SB | Plaça Europa",
+      "price": 89.0
+    },
+    {
+      "name": "Hotel NH Barcelona Diagonal Center",
+      "price": 97.0
+    },
+    {
+      "name": "Leonardo Hotel Barcelona Gran Via",
+      "price": 99.0
+    },
+    {
+      "name": "Hotel SERHS Rivoli Rambla",
+      "price": 100.0
+    },
+    {
+      "name": "Acta Voraport",
+      "price": 111.0
+    },
+    {
+      "name": "Hotel Soho Barcelona",
+      "price": 114.0
+    },
+    {
+      "name": "Hotel Barcelona Princess",
+      "price": 120.0
+    },
+    {
+      "name": "Hotel Jazz",
+      "price": 124.0
+    }
+  ],
+  "Rom_2025-08-01_2025-08-08_": [
+    {
+      "name": "Radio Hotel",
+      "price": 41.0
+    },
+    {
+      "name": "Hotel Lodi",
+      "price": 49.0
+    },
+    {
+      "name": "Hostel Trustever",
+      "price": 57.0
+    },
+    {
+      "name": "Hotel Roma Tor Vergata",
+      "price": 58.0
+    },
+    {
+      "name": "Club House Hotel Rome",
+      "price": 60.0
+    },
+    {
+      "name": "B&B Hotel Roma San Lorenzo Termini",
+      "price": 60.0
+    },
+    {
+      "name": "Hotel Casa Tra Noi Rome",
+      "price": 65.0
+    },
+    {
+      "name": "ibis Roma Fiera",
+      "price": 68.0
+    },
+    {
+      "name": "Hotel Virgilio",
+      "price": 72.0
+    },
+    {
+      "name": "Rome Garden Hotel",
+      "price": 72.0
+    },
+    {
+      "name": "B&B HOTEL Roma Trastevere",
+      "price": 76.0
+    },
+    {
+      "name": "Hotel Dorica",
+      "price": 77.0
+    },
+    {
+      "name": "Hotel Barberini",
+      "price": 89.0
+    },
+    {
+      "name": "Hotel Trevi Palace",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel San Anselmo",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel Fontana",
+      "price": 101.0
+    },
+    {
+      "name": "Dimora Trevi Suites",
+      "price": 108.0
+    },
+    {
+      "name": "Hotel Albergo del Senato",
+      "price": 156.0
+    }
+  ],
+  "Abu Dhabi_2025-07-25_2025-08-01_1": [
+    {
+      "name": "Fabulous Luxury Room",
+      "price": 23.0
+    },
+    {
+      "name": "Villaggio Hotel & Resort Abu Dhabi",
+      "price": 35.0
+    },
+    {
+      "name": "Corniche Street - Luxury Room",
+      "price": 36.0
+    },
+    {
+      "name": "Millennium Downtown Abu Dhabi",
+      "price": 45.0
+    },
+    {
+      "name": "Oryx Hotel",
+      "price": 48.0
+    },
+    {
+      "name": "Premier Inn Abu Dhabi Capital Centre Hotel",
+      "price": 50.0
+    },
+    {
+      "name": "Premier Inn Abu Dhabi Airport (Business Park) Hotel",
+      "price": 53.0
+    },
+    {
+      "name": "Ramada by Wyndham Abu Dhabi Downtown",
+      "price": 53.0
+    },
+    {
+      "name": "Millennium Al Rawdah Hotel",
+      "price": 56.0
+    },
+    {
+      "name": "Novotel Abu Dhabi Al Bustan",
+      "price": 58.0
+    },
+    {
+      "name": "Traders Hotel, Qaryat Al Beri, Abu Dhabi",
+      "price": 65.0
+    },
+    {
+      "name": "Corniche Hotel Abu Dhabi",
+      "price": 81.0
+    },
+    {
+      "name": "Royal M Hotel by Gewan Abu Dhabi",
+      "price": 83.0
+    },
+    {
+      "name": "InterContinental Abu Dhabi by IHG",
+      "price": 86.0
+    },
+    {
+      "name": "Khalidiya Palace Rayhaan by Rotana",
+      "price": 114.0
+    },
+    {
+      "name": "Rixos Marina Abu Dhabi",
+      "price": 187.0
+    },
+    {
+      "name": "Jumeirah Saadiyat Island",
+      "price": 198.0
+    },
+    {
+      "name": "Park Hyatt Abu Dhabi Hotel and Villas",
+      "price": 199.0
+    },
+    {
+      "name": "Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi",
+      "price": 227.0
+    },
+    {
+      "name": "Emirates Palace Mandarin Oriental",
+      "price": 289.0
+    }
+  ],
+  "Stockholm_2025-07-25_2025-08-01_1": [
+    {
+      "name": "mk | hotel berlin",
+      "price": 74.0
+    },
+    {
+      "name": "Capri By Fraser Berlin",
+      "price": 93.0
+    },
+    {
+      "name": "Ocak Aparthotel",
+      "price": 98.0
+    },
+    {
+      "name": "Hotel Les Nations",
+      "price": 127.0
+    },
+    {
+      "name": "Hotel Sedes",
+      "price": 148.0
+    }
+  ],
+  "Düsseldorf_2025-07-25_2025-08-01_1": [
+    {
+      "name": "Monopol Hotel",
+      "price": 38.0
+    },
+    {
+      "name": "acora Düsseldorf Living the City",
+      "price": 40.0
+    },
+    {
+      "name": "dreams Düsseldorf",
+      "price": 42.0
+    },
+    {
+      "name": "McDreams Düsseldorf-City",
+      "price": 45.0
+    },
+    {
+      "name": "Hotel NH Düsseldorf City",
+      "price": 51.0
+    },
+    {
+      "name": "Sure Hotel By Best Western Ambassador Duesseldorf",
+      "price": 54.0
+    },
+    {
+      "name": "Holiday Inn - the Niu, Tab Dusseldorf Main Station by IHG",
+      "price": 57.0
+    },
+    {
+      "name": "Mercure Hotel Düsseldorf City Nord",
+      "price": 59.0
+    },
+    {
+      "name": "Hotel AMANO Düsseldorf",
+      "price": 63.0
+    },
+    {
+      "name": "B&B HOTEL Düsseldorf-City",
+      "price": 64.0
+    },
+    {
+      "name": "carathotel Düsseldorf City",
+      "price": 64.0
+    },
+    {
+      "name": "Premier Inn Düsseldorf City Friedrichstadt Hotel",
+      "price": 65.0
+    },
+    {
+      "name": "Premier Inn Düsseldorf City Centre Hotel",
+      "price": 65.0
+    },
+    {
+      "name": "Holiday Inn Express Düsseldorf - Hauptbahnhof by IHG",
+      "price": 65.0
+    },
+    {
+      "name": "Crowne Plaza Dusseldorf - Neuss by IHG",
+      "price": 69.0
+    },
+    {
+      "name": "Ruby Coco Hotel Dusseldorf",
+      "price": 85.0
+    },
+    {
+      "name": "Adina Apartment Hotel Düsseldorf",
+      "price": 85.0
+    },
+    {
+      "name": "Me and All Hotel Dusseldorf, by Hyatt",
+      "price": 110.0
+    }
+  ],
+  "Ghana_2025-07-25_2025-08-01_1": [
+    {
+      "name": "BOWMARIE RESORT",
+      "price": 4.0
+    },
+    {
+      "name": "Bays Villa Apartments Koforidua",
+      "price": 18.0
+    },
+    {
+      "name": "Low Cost Luxury Rooms",
+      "price": 20.0
+    },
+    {
+      "name": "Golden Home",
+      "price": 23.0
+    },
+    {
+      "name": "Bella Ella Hotel & Event Center",
+      "price": 28.0
+    },
+    {
+      "name": "Blue Palm Resort",
+      "price": 30.0
+    },
+    {
+      "name": "Ko-Sa Beach Resort",
+      "price": 30.0
+    },
+    {
+      "name": "American mall",
+      "price": 30.0
+    },
+    {
+      "name": "GSM Crown Inn Hotel",
+      "price": 34.0
+    },
+    {
+      "name": "Urbano Hotel",
+      "price": 64.0
+    },
+    {
+      "name": "Accra Luxury Apartments @ The Gardens",
+      "price": 76.0
+    },
+    {
+      "name": "Embassy Gardens Luxury Apartments",
+      "price": 76.0
+    },
+    {
+      "name": "The Alexander Palace Ghana",
+      "price": 84.0
+    },
+    {
+      "name": "Accra City Hotel",
+      "price": 134.0
+    },
+    {
+      "name": "SERENITY RESIDENCES & SPA, Kokrobite beach",
+      "price": 146.0
+    },
+    {
+      "name": "The Royal Senchi Resort/Hotel",
+      "price": 166.0
+    },
+    {
+      "name": "La Palm Royal Beach Hotel",
+      "price": 169.0
+    },
+    {
+      "name": "Labadi Beach Hotel",
+      "price": 256.0
+    },
+    {
+      "name": "Kempinski Hotel Gold Coast City Accra Ghana",
+      "price": 400.0
+    },
+    {
+      "name": "Accra Marriott Hotel",
+      "price": 520.0
+    }
+  ],
+  "Thailand_2025-07-25_2025-08-01_1": [
+    {
+      "name": "Jungle Garden",
+      "price": 8.0
+    },
+    {
+      "name": "Koh Chang Hut",
+      "price": 12.0
+    },
+    {
+      "name": "Baan Yuree Resort & Spa",
+      "price": 13.0
+    },
+    {
+      "name": "Kohchang 7 seaview bungalow",
+      "price": 13.0
+    },
+    {
+      "name": "Yoi Hotel krabi",
+      "price": 14.0
+    },
+    {
+      "name": "Sabai Sabai Beach Bungalows",
+      "price": 18.0
+    },
+    {
+      "name": "Lanta Pearl Beach Resort",
+      "price": 20.0
+    },
+    {
+      "name": "Madera Residence Sriracha",
+      "price": 40.0
+    },
+    {
+      "name": "The Shore Samui",
+      "price": 52.0
+    },
+    {
+      "name": "Koh Tao Coral Grand Resort",
+      "price": 70.0
+    },
+    {
+      "name": "Grand Mercure Khao Lak Bangsak",
+      "price": 72.0
+    },
+    {
+      "name": "Santhiya Koh Yao Yai Resort & Spa",
+      "price": 76.0
+    },
+    {
+      "name": "Peninsula Beach Resort",
+      "price": 77.0
+    },
+    {
+      "name": "The Sarann",
+      "price": 82.0
+    },
+    {
+      "name": "Sea Valley Resort",
+      "price": 102.0
+    },
+    {
+      "name": "Eden Beach Khao Lak Resort & Spa",
+      "price": 117.0
+    },
+    {
+      "name": "Anantara Riverside Bangkok Resort",
+      "price": 132.0
+    },
+    {
+      "name": "Sandalwood",
+      "price": 240.0
+    },
+    {
+      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+      "price": 293.0
+    },
+    {
+      "name": "Hyatt Regency Koh Samui",
+      "price": 345.0
+    }
+  ]
+}

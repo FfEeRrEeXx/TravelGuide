@@ -1,0 +1,49 @@
+{
+  "city": "Berlin",
+  "timestamp": "2025-07-25T21:48:36.660775",
+  "weather": {
+    "city": "Berlin",
+    "data": {
+      "temperature": 21,
+      "feels_like": 21,
+      "description": "Klarer Himmel",
+      "icon": "01n",
+      "timestamp": "2025-07-25T21:48:36.786630"
+    },
+    "summary": "Wetter in Berlin:\n• Temperatur: 21°C (gefühlt 21°C)\n• Beschreibung: Klarer Himmel\n\n25.07: 20°C, Leichter Regen\n26.07: 20°C, Ein paar Wolken\n27.07: 19°C, Überwiegend bewölkt\n28.07: 17°C, Überwiegend bewölkt\n29.07: 16°C, Ein paar Wolken"
+  },
+  "hotels": {
+    "city": "Berlin",
+    "hotels": [
+      {
+        "name": "mk | hotel berlin",
+        "price": 74.0
+      },
+      {
+        "name": "Capri By Fraser Berlin",
+        "price": 93.0
+      },
+      {
+        "name": "Ocak Aparthotel",
+        "price": 98.0
+      },
+      {
+        "name": "Hotel Les Nations",
+        "price": 127.0
+      },
+      {
+        "name": "Hotel Sedes",
+        "price": 148.0
+      }
+    ],
+    "summary": "Datenquelle: https://www.google.com/travel/hotels?q=Berlin\n\nGefunden: 5 gut bewertete Hotels (sortiert nach Preis)\n\n1. mk | hotel berlin\n   Preis: 74 EUR pro Nacht\n\n2. Capri By Fraser Berlin\n   Preis: 93 EUR pro Nacht\n\n3. Ocak Aparthotel\n   Preis: 98 EUR pro Nacht\n\n4. Hotel Les Nations\n   Preis: 127 EUR pro Nacht\n\n5. Hotel Sedes\n   Preis: 148 EUR pro Nacht\n\n"
+  },
+  "attractions": {
+    "city": "Berlin",
+    "attractions": [
+      "Brandenburger Tor",
+      "Berliner Mauer",
+      "Museumsinsel"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "city": "Stuttgart",
+  "timestamp": "2025-07-25T21:41:12.536000",
+  "weather": {
+    "city": "Stuttgart",
+    "data": {
+      "temperature": 19,
+      "feels_like": 19,
+      "description": "Ein paar Wolken",
+      "icon": "02n",
+      "timestamp": "2025-07-25T21:41:12.680795"
+    },
+    "summary": "Wetter in Stuttgart:\n• Temperatur: 19°C (gefühlt 19°C)\n• Beschreibung: Ein Paar Wolken\n\n25.07: 19°C, Mäßiger Regen\n26.07: 18°C, Leichter Regen\n27.07: 16°C, Leichter Regen\n28.07: 15°C, Leichter Regen\n29.07: 15°C, Leichter Regen"
+  },
+  "hotels": {
+    "city": "Stuttgart",
+    "hotels": [
+      {
+        "name": "mk | hotel berlin",
+        "price": 74.0
+      },
+      {
+        "name": "Capri By Fraser Berlin",
+        "price": 93.0
+      },
+      {
+        "name": "Ocak Aparthotel",
+        "price": 98.0
+      },
+      {
+        "name": "Hotel Les Nations",
+        "price": 127.0
+      },
+      {
+        "name": "Hotel Sedes",
+        "price": 148.0
+      }
+    ],
+    "summary": "Datenquelle: https://www.google.com/travel/hotels?q=Stuttgart\n\nGefunden: 5 gut bewertete Hotels (sortiert nach Preis)\n\n1. mk | hotel berlin\n   Preis: 74 EUR pro Nacht\n\n2. Capri By Fraser Berlin\n   Preis: 93 EUR pro Nacht\n\n3. Ocak Aparthotel\n   Preis: 98 EUR pro Nacht\n\n4. Hotel Les Nations\n   Preis: 127 EUR pro Nacht\n\n5. Hotel Sedes\n   Preis: 148 EUR pro Nacht\n\n"
+  },
+  "attractions": {
+    "city": "Stuttgart",
+    "attractions": [
+      "Keine Daten verfügbar"
+    ]
+  }
+}

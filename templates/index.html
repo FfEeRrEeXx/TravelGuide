@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TravelGuide</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1>TravelGuide</h1>
+            <p>Ihr intelligenter Reiseplanungs Assistent</p>
+        </div>
+        
+        <div class="chat-messages" id="chatMessages">
+            <div class="message bot-message">
+                Hallo! Ich bin Ihr TravelGuide. Wie kann ich Ihnen helfen?
+                <div class="suggestions">
+                    <button class="suggestion-btn" onclick="sendSuggestion('Wie ist das Wetter in Wien?')">Wie ist das Wetter in Wien?</button>
+                    <button class="suggestion-btn" onclick="sendSuggestion('Hotels in Barcelona finden')">Hotels in Barcelona finden</button>
+                    <button class="suggestion-btn" onclick="sendSuggestion('Hotels in Kopenhagen finden')">Hotels in Kopenhagen finden</button>
+                    <button class="suggestion-btn" onclick="sendSuggestion('Wetter in London abfragen')">Wetter in London abfragen</button>
+                    <button class="suggestion-btn" onclick="sendSuggestion('Wo finde ich die schönsten Sehenswürdigkeiten in Paris?')">Sehenswürdigkeiten in Paris</button>
+                    <button class="suggestion-btn" onclick="sendSuggestion('Was kann ich in Rom besichtigen?')">Attraktionen in Rom</button>
+                    <button class="suggestion-btn" onclick="sendSuggestion('Empfehlungen für Amsterdam')">Tipps für Amsterdam</button>
+                    <button class="suggestion-btn" onclick="sendSuggestion('Was sollte ich in Berlin sehen?')">Berlin Highlights</button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="loading" id="loading">
+            <p>TravelGuide denkt nach...</p>
+        </div>
+        
+        <div class="chat-input">
+            <input type="text" id="messageInput" placeholder="Ihre Nachricht..." onkeypress="handleKeyPress(event)">
+            <button onclick="sendMessage()">Senden</button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    
+</body>
+</html> 

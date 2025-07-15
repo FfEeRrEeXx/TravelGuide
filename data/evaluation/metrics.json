@@ -1,0 +1,4200 @@
+{
+  "interactions": [
+    {
+      "timestamp": "2025-07-10T19:23:44.382320",
+      "user_id": "user_plxsg4npq",
+      "message": "Wie ist das Wetter in Wien?",
+      "response_type": "tool_response",
+      "response_time": 13.317564249038696,
+      "response_quality": {
+        "relevance_score": 0.3547182785382199,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8109436557076439
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_plxsg4npq_1752168224"
+    },
+    {
+      "timestamp": "2025-07-10T19:42:36.322521",
+      "user_id": "user_ul3z8rh3g",
+      "message": "Wie ist das Wetter in Wien?",
+      "response_type": "tool_response",
+      "response_time": 12.333340644836426,
+      "response_quality": {
+        "relevance_score": 0.40086718855620707,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7901734377112414
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ul3z8rh3g_1752169356"
+    },
+    {
+      "timestamp": "2025-07-10T19:47:42.313726",
+      "user_id": "user_5nac7j4uj",
+      "message": "Wie ist das Wetter in Wien?",
+      "response_type": "tool_response",
+      "response_time": 13.398029088973999,
+      "response_quality": {
+        "relevance_score": 0.37458880743936396,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7849177614878728
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_5nac7j4uj_1752169662"
+    },
+    {
+      "timestamp": "2025-07-10T19:52:40.270508",
+      "user_id": "user_5nac7j4uj",
+      "message": "Hotels in Wien finden",
+      "response_type": "tool_response",
+      "response_time": 86.41633081436157,
+      "response_quality": {
+        "relevance_score": 0.38980571519180407,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8179611430383609
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "search_hotels",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_5nac7j4uj_1752169960"
+    },
+    {
+      "timestamp": "2025-07-10T19:56:09.521443",
+      "user_id": "user_5nac7j4uj",
+      "message": "Reisedaten nach Istanbul",
+      "response_type": "tool_response",
+      "response_time": 79.93264174461365,
+      "response_quality": {
+        "relevance_score": 0.2626875099500714,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7925375019900143
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_5nac7j4uj_1752170169"
+    },
+    {
+      "timestamp": "2025-07-10T19:59:00.851483",
+      "user_id": "user_5nac7j4uj",
+      "message": "Reisedaten nach Paris",
+      "response_type": "general",
+      "response_time": 2.6409049034118652,
+      "response_quality": {
+        "relevance_score": 0.43421294006304684,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7968425880126093
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_5nac7j4uj_1752170340"
+    },
+    {
+      "timestamp": "2025-07-10T20:02:33.414296",
+      "user_id": "user_5nac7j4uj",
+      "message": "Suche nach Reise nach Paris",
+      "response_type": "tool_response",
+      "response_time": 13.563140630722046,
+      "response_quality": {
+        "relevance_score": 0.29848480881841755,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7996969617636835
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_5nac7j4uj_1752170553"
+    },
+    {
+      "timestamp": "2025-07-10T20:07:27.575323",
+      "user_id": "user_twnyk5e4g",
+      "message": "Wie ist das Wetter in Wien?",
+      "response_type": "tool_response",
+      "response_time": 12.632782220840454,
+      "response_quality": {
+        "relevance_score": 0.3852276151896151,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.787045523037923
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_twnyk5e4g_1752170847"
+    },
+    {
+      "timestamp": "2025-07-10T20:09:06.128191",
+      "user_id": "user_twnyk5e4g",
+      "message": "Hotels in Wien finden",
+      "response_type": "tool_response",
+      "response_time": 83.47606658935547,
+      "response_quality": {
+        "relevance_score": 0.3515136142028287,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8103027228405658
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "search_hotels",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_twnyk5e4g_1752170946"
+    },
+    {
+      "timestamp": "2025-07-25T21:13:36.926229",
+      "user_id": "user_paahz4zt5",
+      "message": "Wie ist das Wetter in Wien?",
+      "response_type": "tool_response",
+      "response_time": 30.08413314819336,
+      "response_quality": {
+        "relevance_score": 0.19140782842969778,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7182815656859396
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_paahz4zt5_1753470816"
+    },
+    {
+      "timestamp": "2025-07-25T21:13:53.166405",
+      "user_id": "user_paahz4zt5",
+      "message": "Sehenswürdigkeiten in Wien",
+      "response_type": "tool_response",
+      "response_time": 13.279590129852295,
+      "response_quality": {
+        "relevance_score": 0.4112913369787662,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8222582673957533
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_paahz4zt5_1753470833"
+    },
+    {
+      "timestamp": "2025-07-25T21:14:15.344376",
+      "user_id": "user_paahz4zt5",
+      "message": "Reiseempfehlungen für Wien",
+      "response_type": "tool_response",
+      "response_time": 13.29154109954834,
+      "response_quality": {
+        "relevance_score": 0.44105842723823496,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.828211685447647
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_paahz4zt5_1753470855"
+    },
+    {
+      "timestamp": "2025-07-25T21:17:52.975653",
+      "user_id": "user_ptdmcsax4",
+      "message": "Wie ist das Wetter in Wien?",
+      "response_type": "tool_response",
+      "response_time": 12.08381700515747,
+      "response_quality": {
+        "relevance_score": 0.3273325825073557,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8054665165014712
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ptdmcsax4_1753471072"
+    },
+    {
+      "timestamp": "2025-07-25T21:18:58.138893",
+      "user_id": "user_ptdmcsax4",
+      "message": "Sehenswürdigkeiten in Wien",
+      "response_type": "tool_response",
+      "response_time": 12.931880950927734,
+      "response_quality": {
+        "relevance_score": 0.430355150697732,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8260710301395463
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ptdmcsax4_1753471138"
+    },
+    {
+      "timestamp": "2025-07-25T21:21:08.290986",
+      "user_id": "user_ptdmcsax4",
+      "message": "Hotels in Wien finden",
+      "response_type": "tool_response",
+      "response_time": 47.97357106208801,
+      "response_quality": {
+        "relevance_score": 0.2633159036141426,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7926631807228286
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "search_hotels",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ptdmcsax4_1753471268"
+    },
+    {
+      "timestamp": "2025-07-25T21:22:02.696418",
+      "user_id": "user_ptdmcsax4",
+      "message": "Wie wird das wetter in Berlin",
+      "response_type": "tool_response",
+      "response_time": 12.325382232666016,
+      "response_quality": {
+        "relevance_score": 0.32371104195663647,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7747422083913273
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ptdmcsax4_1753471322"
+    },
+    {
+      "timestamp": "2025-07-25T21:23:00.825132",
+      "user_id": "user_ptdmcsax4",
+      "message": "Sehenswürdigkeiten in Berlin",
+      "response_type": "tool_response",
+      "response_time": 12.255374908447266,
+      "response_quality": {
+        "relevance_score": 0.43780864569609007,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.827561729139218
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ptdmcsax4_1753471380"
+    },
+    {
+      "timestamp": "2025-07-25T21:26:44.026309",
+      "user_id": "user_ptdmcsax4",
+      "message": "Wie wird das Wetter in Barcelona",
+      "response_type": "tool_response",
+      "response_time": 12.097274780273438,
+      "response_quality": {
+        "relevance_score": 0.4464563536294959,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7992912707258991
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ptdmcsax4_1753471604"
+    },
+    {
+      "timestamp": "2025-07-25T21:27:11.126744",
+      "user_id": "user_ptdmcsax4",
+      "message": "Wie wird das Wetter in Rom",
+      "response_type": "tool_response",
+      "response_time": 12.86916995048523,
+      "response_quality": {
+        "relevance_score": 0.33637605985743535,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.807275211971487
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ptdmcsax4_1753471631"
+    },
+    {
+      "timestamp": "2025-07-25T21:27:44.981636",
+      "user_id": "user_ptdmcsax4",
+      "message": "Wie wird das Wetter in Barcelona",
+      "response_type": "tool_response",
+      "response_time": 12.04393982887268,
+      "response_quality": {
+        "relevance_score": 0.3547531818816708,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8109506363763341
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_ptdmcsax4_1753471664"
+    },
+    {
+      "timestamp": "2025-07-25T21:29:38.269274",
+      "user_id": "user_zyqw3ktdr",
+      "message": "Wie wird das Wetter in Barcelona",
+      "response_type": "tool_response",
+      "response_time": 12.783483743667603,
+      "response_quality": {
+        "relevance_score": 0.36699311439608073,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.813398622879216
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_zyqw3ktdr_1753471778"
+    },
+    {
+      "timestamp": "2025-07-25T21:31:54.950713",
+      "user_id": "user_oz7scphf5",
+      "message": "Wie wird das wetter in Hamburg",
+      "response_type": "tool_response",
+      "response_time": 12.074643850326538,
+      "response_quality": {
+        "relevance_score": 0.35067998816442775,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7801359976328855
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_oz7scphf5_1753471914"
+    },
+    {
+      "timestamp": "2025-07-25T21:36:57.950931",
+      "user_id": "user_hb1zh8p01",
+      "message": "Wie wird das Wetter in Berlin",
+      "response_type": "tool_response",
+      "response_time": 12.231505870819092,
+      "response_quality": {
+        "relevance_score": 0.28264873189486883,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7965297463789738
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_hb1zh8p01_1753472217"
+    },
+    {
+      "timestamp": "2025-07-25T21:40:36.002896",
+      "user_id": "user_p9kr44wxu",
+      "message": "Wie wird das Wetter in Stuttgart",
+      "response_type": "tool_response",
+      "response_time": 12.12797474861145,
+      "response_quality": {
+        "relevance_score": 0.35145220579613656,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7802904411592273
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_p9kr44wxu_1753472436"
+    },
+    {
+      "timestamp": "2025-07-25T21:42:03.177029",
+      "user_id": "user_p9kr44wxu",
+      "message": "Was muss ich beachten wenn ich nach Stuttgart reise",
+      "response_type": "tool_response",
+      "response_time": 52.27556777000427,
+      "response_quality": {
+        "relevance_score": 0.2702205809594613,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7940441161918923
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_p9kr44wxu_1753472523"
+    },
+    {
+      "timestamp": "2025-07-25T21:45:36.167434",
+      "user_id": "user_166bnu8fp",
+      "message": "Wie wird das Wetter in Bremen",
+      "response_type": "tool_response",
+      "response_time": 12.43973183631897,
+      "response_quality": {
+        "relevance_score": 0.2443202613862688,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7588640522772538
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753472736"
+    },
+    {
+      "timestamp": "2025-07-25T21:47:20.969857",
+      "user_id": "user_166bnu8fp",
+      "message": "Brauche ich am Wochenende in Köln einen Regenschirm?",
+      "response_type": "tool_response",
+      "response_time": 11.66504693031311,
+      "response_quality": {
+        "relevance_score": 0.443013126416809,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8286026252833618
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753472840"
+    },
+    {
+      "timestamp": "2025-07-25T21:47:44.774315",
+      "user_id": "user_166bnu8fp",
+      "message": "Empfiehl mir 3 Sehenswürdigkeiten in Frankfurt, die nicht so touristisch sind",
+      "response_type": "tool_response",
+      "response_time": 13.029680013656616,
+      "response_quality": {
+        "relevance_score": 0.3748780361531152,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.814975607230623
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753472864"
+    },
+    {
+      "timestamp": "2025-07-25T21:48:16.256247",
+      "user_id": "user_166bnu8fp",
+      "message": "Brauche ich am Wochenende in Köln einen Regenschirm?",
+      "response_type": "tool_response",
+      "response_time": 11.854943037033081,
+      "response_quality": {
+        "relevance_score": 0.3704332115039954,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7540866423007991
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753472896"
+    },
+    {
+      "timestamp": "2025-07-25T21:48:25.932431",
+      "user_id": "user_166bnu8fp",
+      "message": "Ich reise mit Hund – welche Berliner Orte eignen sich gut für einen Besuch?",
+      "response_type": "general",
+      "response_time": 0.9209017753601074,
+      "response_quality": {
+        "relevance_score": 0.053992027251615116,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.690798405450323
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753472905"
+    },
+    {
+      "timestamp": "2025-07-25T21:49:22.928492",
+      "user_id": "user_166bnu8fp",
+      "message": "Ich reise mit Hund – welche Berliner Orte eignen sich gut für einen Besuch?",
+      "response_type": "tool_response",
+      "response_time": 51.13478708267212,
+      "response_quality": {
+        "relevance_score": 0.2873188958933357,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7974637791786672
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753472962"
+    },
+    {
+      "timestamp": "2025-07-25T21:49:45.601172",
+      "user_id": "user_166bnu8fp",
+      "message": "Ich will in Berlin ein Museum besuchen",
+      "response_type": "error",
+      "response_time": 2.275002956390381,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.85,
+        "accuracy_score": 0.5,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.58
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": false,
+      "interaction_id": "user_166bnu8fp_1753472985"
+    },
+    {
+      "timestamp": "2025-07-25T21:50:06.179187",
+      "user_id": "user_166bnu8fp",
+      "message": "Ich will in Berlin ein Museum besuchen",
+      "response_type": "tool_response",
+      "response_time": 12.304726600646973,
+      "response_quality": {
+        "relevance_score": 0.33341563472139546,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.806683126944279
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473006"
+    },
+    {
+      "timestamp": "2025-07-25T21:50:25.965912",
+      "user_id": "user_166bnu8fp",
+      "message": "Finde mir ein Café mit WLAN in Dresden, am besten in Uni-Nähe.",
+      "response_type": "general",
+      "response_time": 1.3707010746002197,
+      "response_quality": {
+        "relevance_score": 0.04203797316740915,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.6884075946334819
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473025"
+    },
+    {
+      "timestamp": "2025-07-25T21:50:52.393314",
+      "user_id": "user_166bnu8fp",
+      "message": "Brauche ich Gummistiefel wenn ich nach Barcelona reise",
+      "response_type": "general",
+      "response_time": 1.7752821445465088,
+      "response_quality": {
+        "relevance_score": 0.3857752070797056,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7571550414159411
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473052"
+    },
+    {
+      "timestamp": "2025-07-25T21:51:22.650112",
+      "user_id": "user_166bnu8fp",
+      "message": "Gib mir das Wetter in Wien",
+      "response_type": "tool_response",
+      "response_time": 12.00112509727478,
+      "response_quality": {
+        "relevance_score": 0.2665329441109267,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7633065888221854
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473082"
+    },
+    {
+      "timestamp": "2025-07-25T21:51:45.090827",
+      "user_id": "user_166bnu8fp",
+      "message": "Reiseempfehlungen für Wien",
+      "response_type": "tool_response",
+      "response_time": 17.119336128234863,
+      "response_quality": {
+        "relevance_score": 0.4498958648723226,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8299791729744644
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473105"
+    },
+    {
+      "timestamp": "2025-07-25T21:52:18.336049",
+      "user_id": "user_166bnu8fp",
+      "message": "Wie wird das Wetter in Zürich",
+      "response_type": "tool_response",
+      "response_time": 12.745346069335938,
+      "response_quality": {
+        "relevance_score": 0.42159527485081494,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.794319054970163
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473138"
+    },
+    {
+      "timestamp": "2025-07-25T21:52:29.885549",
+      "user_id": "user_166bnu8fp",
+      "message": "Und was geht so, wenn’s pisst?",
+      "response_type": "error",
+      "response_time": 1.7502081394195557,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.85,
+        "accuracy_score": 0.5,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.58
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": false,
+      "interaction_id": "user_166bnu8fp_1753473149"
+    },
+    {
+      "timestamp": "2025-07-25T21:52:49.528874",
+      "user_id": "user_166bnu8fp",
+      "message": "Und was geht so, wenn’s pisst?",
+      "response_type": "tool_response",
+      "response_time": 14.130691766738892,
+      "response_quality": {
+        "relevance_score": 0.1419743368551966,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7383948673710393
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473169"
+    },
+    {
+      "timestamp": "2025-07-25T21:53:27.352718",
+      "user_id": "user_166bnu8fp",
+      "message": "Erzähl mir einen Witz",
+      "response_type": "general",
+      "response_time": 1.2694590091705322,
+      "response_quality": {
+        "relevance_score": 0.21901027442048765,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7238020548840975
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473207"
+    },
+    {
+      "timestamp": "2025-07-25T21:53:45.022928",
+      "user_id": "user_166bnu8fp",
+      "message": "Heute lieber mit Gummistiefel durch Paris?",
+      "response_type": "general",
+      "response_time": 2.002976894378662,
+      "response_quality": {
+        "relevance_score": 0.08114860192742439,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7262297203854848
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.7
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473225"
+    },
+    {
+      "timestamp": "2025-07-25T21:54:10.373755",
+      "user_id": "user_166bnu8fp",
+      "message": "Ich möchte nach Rom reisen was brauche ich",
+      "response_type": "general",
+      "response_time": 1.7324938774108887,
+      "response_quality": {
+        "relevance_score": 0.07781657513829283,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7555633150276586
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473250"
+    },
+    {
+      "timestamp": "2025-07-25T21:54:48.153138",
+      "user_id": "user_166bnu8fp",
+      "message": "Wie wird das Wetter in Duisburg",
+      "response_type": "tool_response",
+      "response_time": 12.704186201095581,
+      "response_quality": {
+        "relevance_score": 0.4292355868472909,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7958471173694581
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473288"
+    },
+    {
+      "timestamp": "2025-07-25T21:55:48.599170",
+      "user_id": "user_166bnu8fp",
+      "message": "Suche mir hotel in duisburg",
+      "response_type": "tool_response",
+      "response_time": 47.11085915565491,
+      "response_quality": {
+        "relevance_score": 0.3300972718389526,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7760194543677905
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473348"
+    },
+    {
+      "timestamp": "2025-07-25T21:56:18.530706",
+      "user_id": "user_166bnu8fp",
+      "message": "Reiseempfehlungen für Duisburg",
+      "response_type": "tool_response",
+      "response_time": 13.047894954681396,
+      "response_quality": {
+        "relevance_score": 0.42345087264695047,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8246901745293901
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473378"
+    },
+    {
+      "timestamp": "2025-07-25T21:56:40.034030",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Museen sollte man in Paris besuchen?",
+      "response_type": "tool_response",
+      "response_time": 14.425299882888794,
+      "response_quality": {
+        "relevance_score": 0.2666943372957526,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7933388674591505
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473400"
+    },
+    {
+      "timestamp": "2025-07-25T21:56:52.491768",
+      "user_id": "user_166bnu8fp",
+      "message": "Ich will nach Tokio reisen",
+      "response_type": "general",
+      "response_time": 1.5134789943695068,
+      "response_quality": {
+        "relevance_score": 0.3188050971090471,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7437610194218094
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473412"
+    },
+    {
+      "timestamp": "2025-07-25T21:57:56.531665",
+      "user_id": "user_166bnu8fp",
+      "message": "Such mir ein Hotel in Tokio",
+      "response_type": "tool_response",
+      "response_time": 47.559388875961304,
+      "response_quality": {
+        "relevance_score": 0.39300323980676866,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7886006479613538
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473476"
+    },
+    {
+      "timestamp": "2025-07-25T21:58:29.052979",
+      "user_id": "user_166bnu8fp",
+      "message": "Was kann man in Berlin an einem Wochenende machen?",
+      "response_type": "tool_response",
+      "response_time": 12.301954984664917,
+      "response_quality": {
+        "relevance_score": 0.23043238203746902,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7560864764074937
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473509"
+    },
+    {
+      "timestamp": "2025-07-25T21:58:48.765831",
+      "user_id": "user_166bnu8fp",
+      "message": "Wo gibt es schöne Aussichten in Hamburg?",
+      "response_type": "tool_response",
+      "response_time": 13.52173113822937,
+      "response_quality": {
+        "relevance_score": 0.24880861944595883,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7897617238891919
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473528"
+    },
+    {
+      "timestamp": "2025-07-25T21:59:18.289407",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Orte in München sind gut für Kinder?",
+      "response_type": "tool_response",
+      "response_time": 12.561861991882324,
+      "response_quality": {
+        "relevance_score": 0.3605945144202327,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8121189028840465
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473558"
+    },
+    {
+      "timestamp": "2025-07-25T21:59:34.525020",
+      "user_id": "user_166bnu8fp",
+      "message": "Was sind die Top 5 Sehenswürdigkeiten in Prag?",
+      "response_type": "tool_response",
+      "response_time": 0.9478850364685059,
+      "response_quality": {
+        "relevance_score": 0.3671194040256529,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7534238808051306
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473574"
+    },
+    {
+      "timestamp": "2025-07-25T21:59:59.454885",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Sehenswürdigkeiten sind in Wien kostenlos?",
+      "response_type": "tool_response",
+      "response_time": 13.405333042144775,
+      "response_quality": {
+        "relevance_score": 0.29066720286457065,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7981334405729141
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473599"
+    },
+    {
+      "timestamp": "2025-07-25T22:00:27.270900",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Parks sollte man in Amsterdam besuchen?",
+      "response_type": "tool_response",
+      "response_time": 12.526140928268433,
+      "response_quality": {
+        "relevance_score": 0.223264592459448,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7846529184918897
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473627"
+    },
+    {
+      "timestamp": "2025-07-25T22:00:51.989974",
+      "user_id": "user_166bnu8fp",
+      "message": "Was kann man in Barcelona abends machen?",
+      "response_type": "tool_response",
+      "response_time": 13.334910869598389,
+      "response_quality": {
+        "relevance_score": 0.11152243776470686,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7623044875529413
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473651"
+    },
+    {
+      "timestamp": "2025-07-25T22:01:14.550380",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Sehenswürdigkeiten gibt es in Lissabon?",
+      "response_type": "tool_response",
+      "response_time": 12.389307737350464,
+      "response_quality": {
+        "relevance_score": 0.3554082371526869,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8110816474305373
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473674"
+    },
+    {
+      "timestamp": "2025-07-25T22:01:46.430363",
+      "user_id": "user_166bnu8fp",
+      "message": "Nenne mir Sehenswürdigkeiten in Lissabon",
+      "response_type": "tool_response",
+      "response_time": 13.24899697303772,
+      "response_quality": {
+        "relevance_score": 0.261465236211924,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7622930472423848
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473706"
+    },
+    {
+      "timestamp": "2025-07-25T22:04:19.798206",
+      "user_id": "user_166bnu8fp",
+      "message": "nenne mir sehenswürdigkeiten in kopenhagen",
+      "response_type": "tool_response",
+      "response_time": 12.323029041290283,
+      "response_quality": {
+        "relevance_score": 0.25394295415140006,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7907885908302801
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473859"
+    },
+    {
+      "timestamp": "2025-07-25T22:04:58.902795",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Museen sind in Madrid besonders empfehlenswert?",
+      "response_type": "tool_response",
+      "response_time": 12.634242057800293,
+      "response_quality": {
+        "relevance_score": 0.2836883587740003,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7967376717548
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473898"
+    },
+    {
+      "timestamp": "2025-07-25T22:05:51.618082",
+      "user_id": "user_166bnu8fp",
+      "message": "Was sind bekannte Wahrzeichen in London?",
+      "response_type": "tool_response",
+      "response_time": 12.897698879241943,
+      "response_quality": {
+        "relevance_score": 0.345999845454,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8091999690908
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753473951"
+    },
+    {
+      "timestamp": "2025-07-25T22:07:06.467034",
+      "user_id": "user_166bnu8fp",
+      "message": "nenne mir sehenswürdigkeiten in rom",
+      "response_type": "tool_response",
+      "response_time": 12.111463785171509,
+      "response_quality": {
+        "relevance_score": 0.22897718545461232,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7857954370909225
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474026"
+    },
+    {
+      "timestamp": "2025-07-25T22:07:35.049540",
+      "user_id": "user_166bnu8fp",
+      "message": "Was kannst du mir über das Brandenburger Tor sagen",
+      "response_type": "error",
+      "response_time": 1.9782769680023193,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.85,
+        "accuracy_score": 0.5,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.58
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": false,
+      "interaction_id": "user_166bnu8fp_1753474055"
+    },
+    {
+      "timestamp": "2025-07-25T22:07:57.272843",
+      "user_id": "user_166bnu8fp",
+      "message": "Kennst du das Brandenburger Tor",
+      "response_type": "tool_response",
+      "response_time": 13.054458141326904,
+      "response_quality": {
+        "relevance_score": 0.3941880990440717,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7888376198088143
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474077"
+    },
+    {
+      "timestamp": "2025-07-25T22:08:31.057165",
+      "user_id": "user_166bnu8fp",
+      "message": "Was ist Hofburg",
+      "response_type": "tool_response",
+      "response_time": 12.100712060928345,
+      "response_quality": {
+        "relevance_score": 0.39813563560781773,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8196271271215636
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474111"
+    },
+    {
+      "timestamp": "2025-07-25T22:08:59.201425",
+      "user_id": "user_166bnu8fp",
+      "message": "Kennst du Park Güell",
+      "response_type": "tool_response",
+      "response_time": 13.286327123641968,
+      "response_quality": {
+        "relevance_score": 0.4183643156788202,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8236728631357639
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474139"
+    },
+    {
+      "timestamp": "2025-07-25T22:09:16.141254",
+      "user_id": "user_166bnu8fp",
+      "message": "Wo kann ich in Istanbul essen gehen",
+      "response_type": "general",
+      "response_time": 2.0070061683654785,
+      "response_quality": {
+        "relevance_score": 0.31980923162575475,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.743961846325151
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474156"
+    },
+    {
+      "timestamp": "2025-07-25T22:09:38.067830",
+      "user_id": "user_166bnu8fp",
+      "message": "Bitte sag mir wie das Wetter in Kopenhagen ist",
+      "response_type": "tool_response",
+      "response_time": 11.434186935424805,
+      "response_quality": {
+        "relevance_score": 0.25117659951875226,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7602353199037504
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474178"
+    },
+    {
+      "timestamp": "2025-07-25T22:10:01.324224",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Aktivitäten eignen sich in Zürich bei Regen?",
+      "response_type": "tool_response",
+      "response_time": 18.78893804550171,
+      "response_quality": {
+        "relevance_score": 0.2649742413511419,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7929948482702284
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474201"
+    },
+    {
+      "timestamp": "2025-07-25T22:10:19.690692",
+      "user_id": "user_166bnu8fp",
+      "message": "Gibt es empfehlenswerte Stadttouren in Brüssel?",
+      "response_type": "tool_response",
+      "response_time": 12.369059085845947,
+      "response_quality": {
+        "relevance_score": 0.45183504786972395,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8303670095739448
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474219"
+    },
+    {
+      "timestamp": "2025-07-25T22:10:39.713500",
+      "user_id": "user_166bnu8fp",
+      "message": "Was sind gute Tagesausflüge ab München?",
+      "response_type": "tool_response",
+      "response_time": 12.387207746505737,
+      "response_quality": {
+        "relevance_score": 0.23984676149661863,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7579693522993237
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474239"
+    },
+    {
+      "timestamp": "2025-07-25T22:10:48.202768",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Viertel sollte man in Paris vermeiden?",
+      "response_type": "general",
+      "response_time": 4.393117904663086,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.71
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474248"
+    },
+    {
+      "timestamp": "2025-07-25T22:11:16.896750",
+      "user_id": "user_166bnu8fp",
+      "message": "Was kann man in Mailand außer Shopping machen?",
+      "response_type": "tool_response",
+      "response_time": 12.461095094680786,
+      "response_quality": {
+        "relevance_score": 0.2006734945595378,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7801346989119076
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474276"
+    },
+    {
+      "timestamp": "2025-07-25T22:11:41.805531",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche historischen Orte gibt es in Athen?",
+      "response_type": "tool_response",
+      "response_time": 12.226866960525513,
+      "response_quality": {
+        "relevance_score": 0.4154848091856531,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8230969618371307
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474301"
+    },
+    {
+      "timestamp": "2025-07-25T22:12:05.035437",
+      "user_id": "user_166bnu8fp",
+      "message": "Was sind die besten Fotospots in Istanbul?",
+      "response_type": "general",
+      "response_time": 1.6773550510406494,
+      "response_quality": {
+        "relevance_score": 0.23418012355774814,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7268360247115496
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474325"
+    },
+    {
+      "timestamp": "2025-07-25T22:12:25.454915",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Sehenswürdigkeiten gibt es in Budapest?",
+      "response_type": "tool_response",
+      "response_time": 12.397063970565796,
+      "response_quality": {
+        "relevance_score": 0.3254484154354287,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7750896830870857
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474345"
+    },
+    {
+      "timestamp": "2025-07-25T22:12:53.048578",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Strände sind in Barcelona besonders schön?",
+      "response_type": "tool_response",
+      "response_time": 12.851150035858154,
+      "response_quality": {
+        "relevance_score": 0.29111197946640577,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7982223958932811
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474373"
+    },
+    {
+      "timestamp": "2025-07-25T22:13:51.222058",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche bekannten Bauwerke stehen in Florenz?",
+      "response_type": "tool_response",
+      "response_time": 12.386982917785645,
+      "response_quality": {
+        "relevance_score": 0.24206571916401176,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7884131438328024
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474431"
+    },
+    {
+      "timestamp": "2025-07-25T22:14:20.541639",
+      "user_id": "user_166bnu8fp",
+      "message": "Was lohnt sich in Stockholm zu besichtigen?",
+      "response_type": "tool_response",
+      "response_time": 14.325898885726929,
+      "response_quality": {
+        "relevance_score": 0.3338474184038861,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7767694836807773
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474460"
+    },
+    {
+      "timestamp": "2025-07-25T22:14:42.374212",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Schlösser kann man in Deutschland besuchen?",
+      "response_type": "tool_response",
+      "response_time": 12.642165899276733,
+      "response_quality": {
+        "relevance_score": 0.19824072714551294,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7796481454291027
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474482"
+    },
+    {
+      "timestamp": "2025-07-25T22:15:37.244383",
+      "user_id": "user_166bnu8fp",
+      "message": "Wo gibt es die beste Aussicht in Prag?",
+      "response_type": "tool_response",
+      "response_time": 12.44721007347107,
+      "response_quality": {
+        "relevance_score": 0.3074901664329597,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7714980332865919
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474537"
+    },
+    {
+      "timestamp": "2025-07-25T22:15:47.931397",
+      "user_id": "user_166bnu8fp",
+      "message": "Wo kann ich in Wien Kaffee trinken gehen",
+      "response_type": "general",
+      "response_time": 1.4262328147888184,
+      "response_quality": {
+        "relevance_score": 0.177103233180663,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7154206466361326
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474547"
+    },
+    {
+      "timestamp": "2025-07-25T22:16:21.159437",
+      "user_id": "user_166bnu8fp",
+      "message": "Wie lange sollte ich in Wien verbringen",
+      "response_type": "tool_response",
+      "response_time": 12.963293075561523,
+      "response_quality": {
+        "relevance_score": 0.2885413771352002,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.79770827542704
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474581"
+    },
+    {
+      "timestamp": "2025-07-25T22:16:43.269268",
+      "user_id": "user_166bnu8fp",
+      "message": "Was ist die Hauptstadt von Spanien",
+      "response_type": "general",
+      "response_time": 1.562920093536377,
+      "response_quality": {
+        "relevance_score": 0.07220763611942069,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.6944415272238842
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474603"
+    },
+    {
+      "timestamp": "2025-07-25T22:17:00.491862",
+      "user_id": "user_166bnu8fp",
+      "message": "Was ist die Hauptstadt von Deutschland",
+      "response_type": "general",
+      "response_time": 1.7161500453948975,
+      "response_quality": {
+        "relevance_score": 0.22710889216971505,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7254217784339431
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474620"
+    },
+    {
+      "timestamp": "2025-07-25T22:18:08.822596",
+      "user_id": "user_166bnu8fp",
+      "message": "such mir ein hotel in Athen",
+      "response_type": "tool_response",
+      "response_time": 50.706843852996826,
+      "response_quality": {
+        "relevance_score": 0.3428306481635578,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8085661296327116
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474688"
+    },
+    {
+      "timestamp": "2025-07-25T22:18:16.672662",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche typischen Gerichte sollte man in Rom probieren?",
+      "response_type": "general",
+      "response_time": 3.2386651039123535,
+      "response_quality": {
+        "relevance_score": 0.21125316406942027,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.722250632813884
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474696"
+    },
+    {
+      "timestamp": "2025-07-25T22:18:25.882705",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche typischen Gerichte sollte man in Rom probieren?",
+      "response_type": "general",
+      "response_time": 4.93459939956665,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.71
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474705"
+    },
+    {
+      "timestamp": "2025-07-25T22:18:47.918729",
+      "user_id": "user_166bnu8fp",
+      "message": "Was sind die Highlights in Dubrovnik?",
+      "response_type": "tool_response",
+      "response_time": 16.187698364257812,
+      "response_quality": {
+        "relevance_score": 0.494953563862107,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8389907127724214
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474727"
+    },
+    {
+      "timestamp": "2025-07-25T22:19:11.037299",
+      "user_id": "user_166bnu8fp",
+      "message": "Was kann man in Sevilla erleben?",
+      "response_type": "tool_response",
+      "response_time": 19.25075078010559,
+      "response_quality": {
+        "relevance_score": 0.3457783008774097,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8091556601754819
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474751"
+    },
+    {
+      "timestamp": "2025-07-25T22:19:27.464778",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Sehenswürdigkeiten bietet Valencia bei Nacht?",
+      "response_type": "tool_response",
+      "response_time": 13.208444118499756,
+      "response_quality": {
+        "relevance_score": 0.3453396616120551,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.809067932322411
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474767"
+    },
+    {
+      "timestamp": "2025-07-25T22:19:46.870607",
+      "user_id": "user_166bnu8fp",
+      "message": "Was ist die hauptstadt von niederlande",
+      "response_type": "general",
+      "response_time": 1.5736451148986816,
+      "response_quality": {
+        "relevance_score": 0.3064762384782666,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7412952476956532
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474786"
+    },
+    {
+      "timestamp": "2025-07-25T22:19:55.881749",
+      "user_id": "user_166bnu8fp",
+      "message": "hauptstadt von niederlande",
+      "response_type": "general",
+      "response_time": 3.1449050903320312,
+      "response_quality": {
+        "relevance_score": 0.13607286626750265,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7072145732535005
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474795"
+    },
+    {
+      "timestamp": "2025-07-25T22:20:24.010127",
+      "user_id": "user_166bnu8fp",
+      "message": "was kann ich in london machen",
+      "response_type": "tool_response",
+      "response_time": 12.840012073516846,
+      "response_quality": {
+        "relevance_score": 0.2616679844769787,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7923335968953957
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474824"
+    },
+    {
+      "timestamp": "2025-07-25T22:20:31.912029",
+      "user_id": "user_166bnu8fp",
+      "message": "Was sind Highlights in Santiago de Compostela?",
+      "response_type": "general",
+      "response_time": 3.8514177799224854,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.6799999999999999
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474831"
+    },
+    {
+      "timestamp": "2025-07-25T22:20:52.963555",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Highlights bietet die Algarve?",
+      "response_type": "tool_response",
+      "response_time": 17.668175220489502,
+      "response_quality": {
+        "relevance_score": 0.1946032003566288,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7789206400713258
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474852"
+    },
+    {
+      "timestamp": "2025-07-25T22:21:18.908685",
+      "user_id": "user_166bnu8fp",
+      "message": "Was ist die beliebteste straße in Barcelona",
+      "response_type": "tool_response",
+      "response_time": 12.219702959060669,
+      "response_quality": {
+        "relevance_score": 0.4773899025187207,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8354779805037442
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474878"
+    },
+    {
+      "timestamp": "2025-07-25T22:21:39.081359",
+      "user_id": "user_166bnu8fp",
+      "message": "Welche Sehenswürdigkeiten bietet Kreta?",
+      "response_type": "tool_response",
+      "response_time": 13.602049827575684,
+      "response_quality": {
+        "relevance_score": 0.31984707893337194,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8039694157866745
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474899"
+    },
+    {
+      "timestamp": "2025-07-25T22:22:00.089975",
+      "user_id": "user_166bnu8fp",
+      "message": "Wo ist das Van Gogh Museum",
+      "response_type": "tool_response",
+      "response_time": 14.67322587966919,
+      "response_quality": {
+        "relevance_score": 0.558644266895726,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8217288533791451
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474920"
+    },
+    {
+      "timestamp": "2025-07-25T22:22:22.255258",
+      "user_id": "user_166bnu8fp",
+      "message": "Nenne mir einen Hafen in Kopenhagen",
+      "response_type": "tool_response",
+      "response_time": 11.970547914505005,
+      "response_quality": {
+        "relevance_score": 0.2569199461086072,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7613839892217215
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_166bnu8fp_1753474942"
+    },
+    {
+      "timestamp": "2025-07-25T22:24:49.968473",
+      "user_id": "user_89voaugsq",
+      "message": "Welche Inseln kann man ab Athen besuchen?",
+      "response_type": "tool_response",
+      "response_time": 13.257260084152222,
+      "response_quality": {
+        "relevance_score": 0.2638141578137928,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7927628315627586
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475089"
+    },
+    {
+      "timestamp": "2025-07-25T22:25:15.567014",
+      "user_id": "user_89voaugsq",
+      "message": "Welche Orte in Tallinn sind besonders historisch?",
+      "response_type": "tool_response",
+      "response_time": 12.201995134353638,
+      "response_quality": {
+        "relevance_score": 0.21169203178432636,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7823384063568652
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475115"
+    },
+    {
+      "timestamp": "2025-07-25T22:25:44.233764",
+      "user_id": "user_89voaugsq",
+      "message": "Welche Sehenswürdigkeiten bietet Göteborg?",
+      "response_type": "general",
+      "response_time": 18.354624032974243,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.6799999999999999
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475144"
+    },
+    {
+      "timestamp": "2025-07-25T22:26:02.568338",
+      "user_id": "user_89voaugsq",
+      "message": "Was kann man in Lyon an einem Wochenende machen?",
+      "response_type": "tool_response",
+      "response_time": 13.827234029769897,
+      "response_quality": {
+        "relevance_score": 0.27097865932544607,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7641957318650892
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475162"
+    },
+    {
+      "timestamp": "2025-07-25T22:26:25.574901",
+      "user_id": "user_89voaugsq",
+      "message": "Was kann man in Bukarest entdecken?",
+      "response_type": "tool_response",
+      "response_time": 12.51726222038269,
+      "response_quality": {
+        "relevance_score": 0.21311626290916827,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7826232525818336
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475185"
+    },
+    {
+      "timestamp": "2025-07-25T22:26:53.346234",
+      "user_id": "user_89voaugsq",
+      "message": "Welche Museen sind in Sarajevo empfehlenswert?",
+      "response_type": "tool_response",
+      "response_time": 21.432761907577515,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.7,
+        "overall_quality": 0.65
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475213"
+    },
+    {
+      "timestamp": "2025-07-25T22:27:11.246296",
+      "user_id": "user_89voaugsq",
+      "message": "Welche Museen sind in Sarajevo empfehlenswert?",
+      "response_type": "tool_response",
+      "response_time": 12.677960395812988,
+      "response_quality": {
+        "relevance_score": 0.2988728874320387,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7697745774864078
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475231"
+    },
+    {
+      "timestamp": "2025-07-25T22:28:23.132586",
+      "user_id": "user_89voaugsq",
+      "message": "Such mir ein Hotel in Kamerun",
+      "response_type": "tool_response",
+      "response_time": 43.95515322685242,
+      "response_quality": {
+        "relevance_score": 0.39991185340325297,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8199823706806505
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475303"
+    },
+    {
+      "timestamp": "2025-07-25T22:28:44.157636",
+      "user_id": "user_89voaugsq",
+      "message": "Wie wird das Wetter in Dubai",
+      "response_type": "tool_response",
+      "response_time": 12.211568832397461,
+      "response_quality": {
+        "relevance_score": 0.3950596270477421,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7890119254095485
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475324"
+    },
+    {
+      "timestamp": "2025-07-25T22:29:11.348239",
+      "user_id": "user_89voaugsq",
+      "message": "Ich will nach Dubai reisen was muss ich beachten",
+      "response_type": "tool_response",
+      "response_time": 12.730002880096436,
+      "response_quality": {
+        "relevance_score": 0.37226048947791734,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8144520978955836
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475351"
+    },
+    {
+      "timestamp": "2025-07-25T22:30:09.879893",
+      "user_id": "user_89voaugsq",
+      "message": "Such mir das beste hotel in duba",
+      "response_type": "tool_response",
+      "response_time": 43.67600703239441,
+      "response_quality": {
+        "relevance_score": 0.1292388275888297,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7658477655177659
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475409"
+    },
+    {
+      "timestamp": "2025-07-25T22:30:21.289654",
+      "user_id": "user_89voaugsq",
+      "message": "erzähl mir eine witz",
+      "response_type": "general",
+      "response_time": 2.4483578205108643,
+      "response_quality": {
+        "relevance_score": 0.09820628528422473,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.699641257056845
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475421"
+    },
+    {
+      "timestamp": "2025-07-25T22:30:56.118362",
+      "user_id": "user_89voaugsq",
+      "message": "ich weiss nicht wohin ich verreisen soll was kannst du mir empfehlen",
+      "response_type": "tool_response",
+      "response_time": 11.633652210235596,
+      "response_quality": {
+        "relevance_score": 0.22117787646077797,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7542355752921555
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475456"
+    },
+    {
+      "timestamp": "2025-07-25T22:31:27.682290",
+      "user_id": "user_89voaugsq",
+      "message": "kannst du mir london empfehlen",
+      "response_type": "tool_response",
+      "response_time": 13.803761959075928,
+      "response_quality": {
+        "relevance_score": 0.28033632503877104,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7660672650077542
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475487"
+    },
+    {
+      "timestamp": "2025-07-25T22:31:51.297741",
+      "user_id": "user_89voaugsq",
+      "message": "kannst du mir athen empfehlen",
+      "response_type": "tool_response",
+      "response_time": 14.645413875579834,
+      "response_quality": {
+        "relevance_score": 0.2810995654808449,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7662199130961689
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475511"
+    },
+    {
+      "timestamp": "2025-07-25T22:32:46.088409",
+      "user_id": "user_89voaugsq",
+      "message": "such mir ein hotel in london",
+      "response_type": "tool_response",
+      "response_time": 44.644721031188965,
+      "response_quality": {
+        "relevance_score": 0.3788612794732607,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7857722558946522
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475566"
+    },
+    {
+      "timestamp": "2025-07-25T22:33:48.588476",
+      "user_id": "user_89voaugsq",
+      "message": "such mir ein hotel in köln für zwei personen",
+      "response_type": "tool_response",
+      "response_time": 43.874207973480225,
+      "response_quality": {
+        "relevance_score": 0.3842396537665015,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7868479307533003
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475628"
+    },
+    {
+      "timestamp": "2025-07-25T22:35:09.289674",
+      "user_id": "user_89voaugsq",
+      "message": "Finde mir 3 Hotels in Barcelona für weniger als 100 Euro",
+      "response_type": "tool_response",
+      "response_time": 45.16428303718567,
+      "response_quality": {
+        "relevance_score": 0.4279230532597082,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8255846106519418
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475709"
+    },
+    {
+      "timestamp": "2025-07-25T22:35:52.603053",
+      "user_id": "user_89voaugsq",
+      "message": "finde mir dreo hotels in dubai für mehr als 200 euro",
+      "response_type": "tool_response",
+      "response_time": 1.795686960220337,
+      "response_quality": {
+        "relevance_score": 0.10821851889375741,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7316437037787514
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475752"
+    },
+    {
+      "timestamp": "2025-07-25T22:36:59.105052",
+      "user_id": "user_89voaugsq",
+      "message": "Finde mir hotels in Rom für unter 50 Euro",
+      "response_type": "tool_response",
+      "response_time": 43.44082307815552,
+      "response_quality": {
+        "relevance_score": 0.37473573366541035,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.814947146733082
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475819"
+    },
+    {
+      "timestamp": "2025-07-25T22:37:52.518720",
+      "user_id": "user_89voaugsq",
+      "message": "Nenne mir schöne Orte in Istanbul",
+      "response_type": "tool_response",
+      "response_time": 12.180624961853027,
+      "response_quality": {
+        "relevance_score": 0.3018378899329554,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8003675779865912
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475872"
+    },
+    {
+      "timestamp": "2025-07-25T22:38:51.589538",
+      "user_id": "user_89voaugsq",
+      "message": "Suche mir ein Hotel in Abu Dhabi",
+      "response_type": "tool_response",
+      "response_time": 44.7379047870636,
+      "response_quality": {
+        "relevance_score": 0.34699111408830524,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.779398222817661
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475931"
+    },
+    {
+      "timestamp": "2025-07-25T22:39:23.715864",
+      "user_id": "user_89voaugsq",
+      "message": "Welche Sehenswürdigkeiten gibt es in Abu Dhabi",
+      "response_type": "tool_response",
+      "response_time": 12.678590059280396,
+      "response_quality": {
+        "relevance_score": 0.5523615635722112,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8504723127144423
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475963"
+    },
+    {
+      "timestamp": "2025-07-25T22:39:58.244798",
+      "user_id": "user_89voaugsq",
+      "message": "Nenne mir die schönste Sehenswürdigkeit in Dubai",
+      "response_type": "tool_response",
+      "response_time": 11.551993131637573,
+      "response_quality": {
+        "relevance_score": 0.19283511319752866,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7785670226395057
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753475998"
+    },
+    {
+      "timestamp": "2025-07-25T22:40:57.633745",
+      "user_id": "user_89voaugsq",
+      "message": "Was kann ich in Wien machen",
+      "response_type": "tool_response",
+      "response_time": 14.844835758209229,
+      "response_quality": {
+        "relevance_score": 0.23500552509263223,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7870011050185265
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753476057"
+    },
+    {
+      "timestamp": "2025-07-25T22:41:40.601078",
+      "user_id": "user_89voaugsq",
+      "message": "Gibt es in Wien Kaffeehauskultur",
+      "response_type": "tool_response",
+      "response_time": 13.269402980804443,
+      "response_quality": {
+        "relevance_score": 0.35892216267896876,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8117844325357938
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753476100"
+    },
+    {
+      "timestamp": "2025-07-25T22:42:03.421638",
+      "user_id": "user_89voaugsq",
+      "message": "Wo ist Big Ben",
+      "response_type": "tool_response",
+      "response_time": 11.59250807762146,
+      "response_quality": {
+        "relevance_score": 0.3475687663419067,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7795137532683813
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753476123"
+    },
+    {
+      "timestamp": "2025-07-25T22:42:24.269453",
+      "user_id": "user_89voaugsq",
+      "message": "Was ist die Hauptstadt von England",
+      "response_type": "general",
+      "response_time": 2.4551339149475098,
+      "response_quality": {
+        "relevance_score": 0.3130603831447016,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7726120766289404
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753476144"
+    },
+    {
+      "timestamp": "2025-07-25T22:43:28.775496",
+      "user_id": "user_89voaugsq",
+      "message": "Such mir ein Hotel in Stockholm",
+      "response_type": "tool_response",
+      "response_time": 45.5242280960083,
+      "response_quality": {
+        "relevance_score": 0.39321186560667254,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8186423731213346
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753476208"
+    },
+    {
+      "timestamp": "2025-07-25T22:43:57.688913",
+      "user_id": "user_89voaugsq",
+      "message": "wie wird das wetter in Stockholm",
+      "response_type": "tool_response",
+      "response_time": 20.855185985565186,
+      "response_quality": {
+        "relevance_score": 0.32952627513209665,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7459052550264194
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753476237"
+    },
+    {
+      "timestamp": "2025-07-25T22:46:14.780885",
+      "user_id": "user_89voaugsq",
+      "message": "such mir hotel in düsseldorf",
+      "response_type": "tool_response",
+      "response_time": 97.88729119300842,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.7,
+        "overall_quality": 0.65
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_89voaugsq_1753476374"
+    },
+    {
+      "timestamp": "2025-07-25T22:49:01.805349",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wie wird das Wetter in Abu Dhabi",
+      "response_type": "tool_response",
+      "response_time": 12.454705238342285,
+      "response_quality": {
+        "relevance_score": 0.29484694676750006,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7689693893535001
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476541"
+    },
+    {
+      "timestamp": "2025-07-25T22:49:21.715324",
+      "user_id": "user_3xg9bbywl",
+      "message": "Sehenswürdigkeiten in Abu Dhabi",
+      "response_type": "tool_response",
+      "response_time": 15.294430017471313,
+      "response_quality": {
+        "relevance_score": 0.5969350376518323,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8593870075303665
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476561"
+    },
+    {
+      "timestamp": "2025-07-25T22:49:50.129727",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wie ist das Wetter in Ghana",
+      "response_type": "tool_response",
+      "response_time": 11.921791076660156,
+      "response_quality": {
+        "relevance_score": 0.32906443634032745,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7758128872680654
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476590"
+    },
+    {
+      "timestamp": "2025-07-25T22:50:41.681979",
+      "user_id": "user_3xg9bbywl",
+      "message": "Finde mir ein Hotel in Ghana",
+      "response_type": "tool_response",
+      "response_time": 43.56447386741638,
+      "response_quality": {
+        "relevance_score": 0.431426795245732,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7962853590491464
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476641"
+    },
+    {
+      "timestamp": "2025-07-25T22:51:06.721852",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wie ist das Wetter in Thailand",
+      "response_type": "tool_response",
+      "response_time": 12.458077907562256,
+      "response_quality": {
+        "relevance_score": 0.3614597825500238,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8122919565100049
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476666"
+    },
+    {
+      "timestamp": "2025-07-25T22:51:59.987864",
+      "user_id": "user_3xg9bbywl",
+      "message": "finde mir ein Hotel in Thailand",
+      "response_type": "tool_response",
+      "response_time": 43.701003074645996,
+      "response_quality": {
+        "relevance_score": 0.33211102741903376,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7764222054838067
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476719"
+    },
+    {
+      "timestamp": "2025-07-25T22:52:23.126915",
+      "user_id": "user_3xg9bbywl",
+      "message": "welche sehenswürdigkeiten gibt es in thailand",
+      "response_type": "tool_response",
+      "response_time": 13.633723974227905,
+      "response_quality": {
+        "relevance_score": 0.2853166624902617,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7970633324980524
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476743"
+    },
+    {
+      "timestamp": "2025-07-25T22:52:49.249280",
+      "user_id": "user_3xg9bbywl",
+      "message": "was kann ich in ghana machen",
+      "response_type": "tool_response",
+      "response_time": 13.087140083312988,
+      "response_quality": {
+        "relevance_score": 0.384008482209317,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8168016964418634
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476769"
+    },
+    {
+      "timestamp": "2025-07-25T22:53:16.866772",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wie ist das Wetter in Trabzon",
+      "response_type": "tool_response",
+      "response_time": 12.846091032028198,
+      "response_quality": {
+        "relevance_score": 0.40668363483618253,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7913367269672366
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476796"
+    },
+    {
+      "timestamp": "2025-07-25T22:53:40.381793",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wie wird das wetter in der nächsten woche in berlin",
+      "response_type": "tool_response",
+      "response_time": 12.452551126480103,
+      "response_quality": {
+        "relevance_score": 0.2192801221682728,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7838560244336545
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.7
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476820"
+    },
+    {
+      "timestamp": "2025-07-25T22:54:06.011847",
+      "user_id": "user_3xg9bbywl",
+      "message": "Brauche ich in Berlin einen Regenschirm",
+      "response_type": "tool_response",
+      "response_time": 11.683386087417603,
+      "response_quality": {
+        "relevance_score": 0.3868149532016626,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7573629906403325
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476846"
+    },
+    {
+      "timestamp": "2025-07-25T22:54:36.307486",
+      "user_id": "user_3xg9bbywl",
+      "message": "Brauche ich in Barcelona Regenschirm",
+      "response_type": "tool_response",
+      "response_time": 12.005045890808105,
+      "response_quality": {
+        "relevance_score": 0.3259932920287929,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7751986584057586
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476876"
+    },
+    {
+      "timestamp": "2025-07-25T22:54:54.649457",
+      "user_id": "user_3xg9bbywl",
+      "message": "Finde mir ein Hotel auf den Malediven",
+      "response_type": "error",
+      "response_time": 1.4583842754364014,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.85,
+        "accuracy_score": 0.5,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.58
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": false,
+      "interaction_id": "user_3xg9bbywl_1753476894"
+    },
+    {
+      "timestamp": "2025-07-25T22:55:16.793570",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wie ist das Wetter auf den Malediven",
+      "response_type": "tool_response",
+      "response_time": 12.203451871871948,
+      "response_quality": {
+        "relevance_score": 0.3712204966545938,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8142440993309187
+      },
+      "user_feedback": null,
+      "intent_recognized": true,
+      "intent_evaluation": {
+        "detected_intent": "get_weather",
+        "confidence_score": 0.5,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476916"
+    },
+    {
+      "timestamp": "2025-07-25T22:55:53.082350",
+      "user_id": "user_3xg9bbywl",
+      "message": "Nenne mir einige Sehenswürdigkeiten in Paris",
+      "response_type": "tool_response",
+      "response_time": 12.404454946517944,
+      "response_quality": {
+        "relevance_score": 0.2922185797820176,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7984437159564035
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476953"
+    },
+    {
+      "timestamp": "2025-07-25T22:56:17.954585",
+      "user_id": "user_3xg9bbywl",
+      "message": "nenne mir ein Kunstmuseum in frankreich",
+      "response_type": "tool_response",
+      "response_time": 12.152040958404541,
+      "response_quality": {
+        "relevance_score": 0.3157513005335272,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8031502601067053
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753476977"
+    },
+    {
+      "timestamp": "2025-07-25T22:56:46.210220",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wo ist Tower Bridge",
+      "response_type": "tool_response",
+      "response_time": 12.963565111160278,
+      "response_quality": {
+        "relevance_score": 0.5198452572508954,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8439690514501791
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753477006"
+    },
+    {
+      "timestamp": "2025-07-25T22:57:05.932036",
+      "user_id": "user_3xg9bbywl",
+      "message": "Reiseempfehlungen für Tower Bridge",
+      "response_type": "tool_response",
+      "response_time": 13.456937789916992,
+      "response_quality": {
+        "relevance_score": 0.4415670446379767,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7983134089275954
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753477025"
+    },
+    {
+      "timestamp": "2025-07-25T22:57:37.759316",
+      "user_id": "user_3xg9bbywl",
+      "message": "Kennst du ein wahrzeichen in Wien",
+      "response_type": "tool_response",
+      "response_time": 18.001274824142456,
+      "response_quality": {
+        "relevance_score": 0.38323388471559167,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7866467769431184
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753477057"
+    },
+    {
+      "timestamp": "2025-07-25T22:57:46.414823",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wo ist das Pergamonmuseum",
+      "response_type": "general",
+      "response_time": 3.3602020740509033,
+      "response_quality": {
+        "relevance_score": 0.0,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.6799999999999999
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753477066"
+    },
+    {
+      "timestamp": "2025-07-25T22:58:09.969650",
+      "user_id": "user_3xg9bbywl",
+      "message": "Kannst du mir Pergamonmuseum empfehlen",
+      "response_type": "tool_response",
+      "response_time": 12.585373878479004,
+      "response_quality": {
+        "relevance_score": 0.27160535383341455,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7943210707666829
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753477089"
+    },
+    {
+      "timestamp": "2025-07-25T22:58:20.264084",
+      "user_id": "user_3xg9bbywl",
+      "message": "Gibt es in Wien ein Musikverein",
+      "response_type": "general",
+      "response_time": 2.5600969791412354,
+      "response_quality": {
+        "relevance_score": 0.21319483590104224,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.7,
+        "coherence_score": 0.85,
+        "overall_quality": 0.7226389671802085
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753477100"
+    },
+    {
+      "timestamp": "2025-07-25T22:58:53.098010",
+      "user_id": "user_3xg9bbywl",
+      "message": "Wo kann ich online tickets kaufen für sehenswürdigkeiten",
+      "response_type": "tool_response",
+      "response_time": 12.395779848098755,
+      "response_quality": {
+        "relevance_score": 0.5187415337564728,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.8437483067512946
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 1.0,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753477133"
+    },
+    {
+      "timestamp": "2025-07-25T23:06:42.267366",
+      "user_id": "user_3xg9bbywl",
+      "message": "gib mir eine reiseempfehlung nach istanbul",
+      "response_type": "tool_response",
+      "response_time": 14.042299270629883,
+      "response_quality": {
+        "relevance_score": 0.22270006945666593,
+        "completeness_score": 0.95,
+        "accuracy_score": 0.9,
+        "helpfulness_score": 0.85,
+        "coherence_score": 1.0,
+        "overall_quality": 0.7845400138913332
+      },
+      "user_feedback": null,
+      "intent_recognized": false,
+      "intent_evaluation": {
+        "detected_intent": "unknown",
+        "confidence_score": 0.0,
+        "expected_intent": null,
+        "intent_correct": null,
+        "entity_extraction_accuracy": 0.5,
+        "context_understanding": 0.5
+      },
+      "api_success": true,
+      "interaction_id": "user_3xg9bbywl_1753477602"
+    }
+  ],
+  "evaluation_summary": {
+    "total_interactions": 155,
+    "average_response_time": 16.600250537933842,
+    "average_quality_score": 0.7751522545241968,
+    "average_intent_confidence": 0.0967741935483871,
+    "api_success_rate": 97.41935483870968,
+    "intent_recognition_rate": 19.35483870967742,
+    "feedback_statistics": {},
+    "last_updated": "2025-07-25T23:06:42.267715"
+  },
+  "last_updated": ""
+}
